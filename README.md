@@ -260,3 +260,4 @@ We import the Auth0 JavaScript library, just as we would do for any app in Node.
 
 **NOTE: I plan on finishing this tutorial later, but I would actually prefer to write it as a post on their blog. I'm waiting to hear back from them.**
 
+**For now, just replace the values in `lib/constants.ts` and run `aleph dev` and open `http://localhost:8080/` in your web browser, and it should be working.**
