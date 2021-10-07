@@ -1,0 +1,7 @@
+export const CLIENT_ID = '{YOUR-CLIENT-ID}'
+export const CLIENT_DOMAIN = '{YOUR-CLIENT-DOMAIN}'
+export const REDIRECT = 'http://localhost:8080/callback'
+export const SCOPE = 'set:counter'
+export const AUDIENCE = '{YOUR-AUDIENCE}'
+export const API_SECRET = '{YOUR-API-SECRET}'
+export const API_ALGORITHM = 'HS256'
